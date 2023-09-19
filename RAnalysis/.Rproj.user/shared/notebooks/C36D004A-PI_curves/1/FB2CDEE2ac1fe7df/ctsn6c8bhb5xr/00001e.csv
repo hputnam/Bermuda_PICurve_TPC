@@ -1,0 +1,10 @@
+"0","Dlab.fit_nlsLM <- minpack.lm::nlsLM(Am.log10~sharpeschoolhigh_1981(temp = Temp.Cat, r_tref=0,e=0,eh=0,th=1, tref = 28),
+                        data = Dlab.df,
+                        start = coef(Dlab.fit),
+                        lower = low_lims,
+                        upper = upper_lims,
+                        weights = rep(1, times = nrow(Dlab.df)))
+"
+"2","Error in nls.lm(par = start, fn = FCT, jac = jac, control = control, lower = lower,  : 
+  length(lower) must be equal to length(par)
+"

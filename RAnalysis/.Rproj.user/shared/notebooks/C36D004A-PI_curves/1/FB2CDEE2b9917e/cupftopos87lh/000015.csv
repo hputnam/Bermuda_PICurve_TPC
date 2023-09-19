@@ -1,0 +1,19 @@
+"0","df <- df %>%"
+"0","  mutate(intervals = map2(data0, info, function(.x, .y) {"
+"0","    split(.x, f = cut(as.numeric(.x$Time), breaks = as.numeric(c(.y$Start.time, .y$Stop.time)),"
+"0","                      labels = as.character(.y$Light_Value)))})) %>%"
+"0","  mutate(data = map(intervals, ~ unnest(tibble(.), .id = ""Light_Value"")))"
+"1","[1m[33mError[39m in `mutate()`:[22m
+[38;5;232m[36mℹ[38;5;232m In argument: `intervals = map2(...)`.[39m
+[1mCaused by error in `map2()`:[22m
+[38;5;232m[36mℹ[38;5;232m In index: 1.[39m
+[1mCaused by error in `cut.default()`:[22m
+[33m![39m lengths of 'breaks' and 'labels' differ
+Backtrace:
+[90m  1. [39m... %>% ...
+[90m 10. [39m[1m[94mpurrr::map2([39m[22m...[1m[94m)[39m[22m
+[90m 11. [39mpurrr:::map2_(""list"", .x, .y, .f, ..., .progress = .progress)
+[90m 15. [39m.f(.x[[i]], .y[[i]], ...)
+[90m 19. [39m[1mbase[22m::cut.default(...)
+[90m 20. [39mbase::stop(""lengths of 'breaks' and 'labels' differ"")
+"

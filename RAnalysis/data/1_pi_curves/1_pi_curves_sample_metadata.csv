@@ -1,0 +1,169 @@
+Date,colony_id,Chamber.Channel,Position,Bin.ID,Run,Species,Temp.Cat,Chamber.Vol.L,Notes
+20220806,Past-A1,1,1,1,1,Porites astreoides,29,0.591,NA
+20220806,Dlab-B1,2,2,1,1,Diploria labyrinthiformis,29,0.578,NA
+20220806,Mdec-B1,3,3,1,1,Madracis decactis,29,0.606,NA
+20220806,Mdec-A1,4,4,1,1,Madracis decactis,29,0.605,NA
+20220806,BK-1,5,5,1,1,Blank,29,0.61,NA
+20220806,Mcav-B1,6,6,1,1,Montastraea cavernosa,29,0.602,NA
+20220806,Dlab-A1,7,7,1,1,Diploria labyrinthiformis,29,0.596,NA
+20220806,Mcav-A1,8,8,1,1,Montastraea cavernosa,29,0.601,NA
+20220808,Mdec-D1,1,1,1,2,Madracis decactis,29,0.595,NA
+20220808,Mcav-C1,2,2,1,2,Montastraea cavernosa,29,0.598,NA
+20220808,Past-D1,3,3,1,2,Porites astreoides,29,0.593,NA
+20220808,Dlab-D1,4,4,1,2,Diploria labyrinthiformis,29,0.592,NA
+20220808,Past-C1,5,5,1,2,Porites astreoides,29,0.606,NA
+20220808,Mcav-D1,6,6,1,2,Montastraea cavernosa,29,0.618,NA
+20220808,Mdec-C1,7,7,1,2,Madracis decactis,29,0.614,NA
+20220808,BK-2,8,8,1,2,Blank,29,0.599,NA
+20220808,Mdec-F1,1,1,1,3,Madracis decactis,29,0.607,NA
+20220808,Dlab-F1,2,2,1,3,Diploria labyrinthiformis,29,0.576,NA
+20220808,Past-E1,3,3,1,3,Porites astreoides,29,0.57,NA
+20220808,Mcav-E1,4,4,1,3,Montastraea cavernosa,29,0.58,NA
+20220808,Dlab-E1,5,5,1,3,Diploria labyrinthiformis,29,0.59,NA
+20220808,Past-F1,6,6,1,3,Porites astreoides,29,0.588,NA
+20220808,Mcav-F1,7,7,1,3,Montastraea cavernosa,29,0.589,NA
+20220808,Mdec-E1,8,8,1,3,Madracis decactis,29,0.612,NA
+20220809,Dlab-B2,1,1,1,4,Diploria labyrinthiformis,40,0.59,Tissue sloughing and cloudy water by 40% light step
+20220809,BK-3,2,2,1,4,Blank,40,0.614,Tissue sloughing and cloudy water by 40% light step
+20220809,Past-B2,3,3,1,4,Porites astreoides,40,0.589,Tissue sloughing and cloudy water by 40% light step
+20220809,Mdec-A2,4,4,1,4,Madracis decactis,40,0.6,Tissue sloughing and cloudy water by 40% light step
+20220809,Mcav-A2,5,5,1,4,Montastraea cavernosa,40,0.589,Tissue sloughing and cloudy water by 40% light step
+20220809,Mcav-B2,6,6,1,4,Montastraea cavernosa,40,0.602,Tissue sloughing and cloudy water by 40% light step
+20220809,Past-A2,7,7,1,4,Porites astreoides,40,0.598,Tissue sloughing and cloudy water by 40% light step
+20220809,Dlab-A2,8,8,1,4,Diploria labyrinthiformis,40,0.6,Tissue sloughing and cloudy water by 40% light step
+20220809,Past-D2,1,1,1,5,Porites astreoides,40,0.582,Tissue sloughing and cloudy water by 40% light step
+20220809,Dlab-C2,2,2,1,5,Diploria labyrinthiformis,40,0.596,Tissue sloughing and cloudy water by 40% light step
+20220809,Dlab-E2,3,3,1,5,Diploria labyrinthiformis,40,0.592,Tissue sloughing and cloudy water by 40% light step
+20220809,Mcav-F2,4,4,1,5,Montastraea cavernosa,40,0.584,Tissue sloughing and cloudy water by 40% light step
+20220809,Mcav-C2,5,5,1,5,Montastraea cavernosa,40,0.606,Tissue sloughing and cloudy water by 40% light step
+20220809,Mdec-F2,6,6,1,5,Madracis decactis,40,0.6,Tissue sloughing and cloudy water by 40% light step
+20220809,Mdec-D2,7,7,1,5,Madracis decactis,40,0.602,Tissue sloughing and cloudy water by 40% light step
+20220809,Past-E2,8,8,1,5,Porites astreoides,40,0.584,Tissue sloughing and cloudy water by 40% light step
+20220809,Past-C2,1,1,1,6,Porites astreoides,40,0.61,Tissue sloughing and cloudy water by 40% light step
+20220809,Mdec-C2,2,2,1,6,Madracis decactis,40,0.607,Tissue sloughing and cloudy water by 40% light step
+20220809,Mcav-E2,3,3,1,6,Montastraea cavernosa,40,0.588,Tissue sloughing and cloudy water by 40% light step
+20220809,Dlab-D2,4,4,1,6,Diploria labyrinthiformis,40,0.592,Tissue sloughing and cloudy water by 40% light step
+20220809,Mdec-E2,5,5,1,6,Madracis decactis,40,0.598,Tissue sloughing and cloudy water by 40% light step
+20220809,Mcav-D2,6,6,1,6,Montastraea cavernosa,40,0.584,Tissue sloughing and cloudy water by 40% light step
+20220809,Past-F2,7,7,1,6,Porites astreoides,40,0.582,Tissue sloughing and cloudy water by 40% light step
+20220809,Dlab-F2,8,8,1,6,Diploria labyrinthiformis,40,0.578,Tissue sloughing and cloudy water by 40% light step
+20220810,BK-4,1,1,1,7,Blank,33,0.62,NA
+20220810,Past-A3,2,2,1,7,Porites astreoides,33,0.601,NA
+20220810,Dlab-D3,3,3,1,7,Diploria labyrinthiformis,33,0.596,NA
+20220810,Past-C3,4,4,1,7,Porites astreoides,33,0.594,NA
+20220810,Mcav-C3,5,5,1,7,Montastraea cavernosa,33,0.598,NA
+20220810,Dlab-A3,6,6,1,7,Diploria labyrinthiformis,33,0.586,NA
+20220810,Mdec-A3,7,7,1,7,Madracis decactis,33,0.587,NA
+20220810,Mdec-F3,8,8,1,7,Madracis decactis,33,0.608,NA
+20220810,Past-B3,1,1,1,8,Porites astreoides,33,0.607,NA
+20220810,Mdec-B3,2,2,1,8,Madracis decactis,33,0.596,NA
+20220810,Mcav-E3,3,3,1,8,Montastraea cavernosa,33,0.587,NA
+20220810,Dlab-B3,4,4,1,8,Diploria labyrinthiformis,33,0.595,NA
+20220810,Dlab-E3,5,5,1,8,Diploria labyrinthiformis,33,0.592,NA
+20220810,Past-F3,6,6,1,8,Porites astreoides,33,0.595,NA
+20220810,Mdec-E3,7,7,1,8,Madracis decactis,33,0.591,NA
+20220810,Mcav-D3,8,8,1,8,Montastraea cavernosa,33,0.6,NA
+20220810,Past-D3,1,1,1,9,Porites astreoides,33,0.591,NA
+20220810,Mdec-C3,2,2,1,9,Madracis decactis,33,0.609,NA
+20220810,Past-E3,3,3,1,9,Porites astreoides,33,0.608,NA
+20220810,Mcav-F3,4,4,1,9,Montastraea cavernosa,33,0.585,NA
+20220810,Mdec-D3,5,5,1,9,Madracis decactis,33,0.595,NA
+20220810,Mcav-A3,6,6,1,9,Montastraea cavernosa,33,0.592,NA
+20220810,Dlab-C3,7,7,1,9,Diploria labyrinthiformis,33,0.594,NA
+20220810,Dlab-F3,8,8,1,9,Diploria labyrinthiformis,33,0.59,NA
+20220811,Past-D5,1,1,1,10,Porites astreoides,22,0.599,NA
+20220811,Dlab-B5,2,2,1,10,Diploria labyrinthiformis,22,0.596,NA
+20220811,Mcav-F5,3,3,1,10,Montastraea cavernosa,22,0.592,NA
+20220811,Mdec-A5,4,4,1,10,Madracis decactis,22,0.606,NA
+20220811,Mdec-E5,5,5,1,10,Madracis decactis,22,0.603,NA
+20220811,Dlab-C5,6,6,1,10,Diploria labyrinthiformis,22,0.6,NA
+20220811,Mcav-B5,7,7,1,10,Montastraea cavernosa,22,0.598,NA
+20220811,Past-A5,8,8,1,10,Porites astreoides,22,0.598,NA
+20220811,Dlab-D5,1,1,1,11,Diploria labyrinthiformis,22,0.594,NA
+20220811,Mcav-E5,2,2,1,11,Montastraea cavernosa,22,0.593,NA
+20220811,BK-5,3,3,1,11,Blank,22,0.618,NA
+20220811,Past-B5,4,4,1,11,Porites astreoides,22,0.6,NA
+20220811,Mdec-B5,5,5,1,11,Madracis decactis,22,0.61,NA
+20220811,Mcav-A5,6,6,1,11,Montastraea cavernosa,22,0.596,NA
+20220811,Past-E5,7,7,1,11,Porites astreoides,22,0.586,NA
+20220811,Dlab-A5,8,8,1,11,Diploria labyrinthiformis,22,0.59,NA
+20220811,Mcav-C5,1,1,1,12,Montastraea cavernosa,22,0.6,NA
+20220811,Past-F5,2,2,1,12,Porites astreoides,22,0.61,NA
+20220811,Mdec-F5,3,3,1,12,Madracis decactis,22,0.608,NA
+20220811,Mcav-D5,4,4,1,12,Montastraea cavernosa,22,0.606,NA
+20220811,Dlab-E5,5,5,1,12,Diploria labyrinthiformis,22,0.602,NA
+20220811,Past-C5,6,6,1,12,Porites astreoides,22,0.599,NA
+20220811,Mdec-D5,7,7,1,12,Madracis decactis,22,0.61,NA
+20220811,Dlab-F5,8,8,1,12,Diploria labyrinthiformis,22,0.591,NA
+20220812,Mdec-B4,1,1,1,13,Madracis decactis,16,0.614,NA
+20220812,Past-A4,2,2,1,13,Porites astreoides,16,0.599,NA
+20220812,Past-C4,3,3,1,13,Porites astreoides,16,0.598,NA
+20220812,Mdec-A4,4,4,1,13,Madracis decactis,16,0.597,NA
+20220812,Dlab-A4,5,5,1,13,Diploria labyrinthiformis,16,0.596,NA
+20220812,Mcav-E4,6,6,1,13,Montastraea cavernosa,16,0.59,NA
+20220812,Mcav-D4,7,7,1,13,Montastraea cavernosa,16,0.588,NA
+20220812,Dlab-D4,8,8,1,13,Diploria labyrinthiformis,16,0.598,NA
+20220812,Mcav-F4,1,1,1,14,Montastraea cavernosa,16,0.587,NA
+20220812,Mcav-C4,2,2,1,14,Montastraea cavernosa,16,0.607,NA
+20220812,Dlab-B4,3,3,1,14,Diploria labyrinthiformis,16,0.601,NA
+20220812,BK-6,4,4,1,14,Blank,16,0.612,NA
+20220812,Past-E4,5,5,1,14,Porites astreoides,16,0.594,NA
+20220812,Mdec-D4,6,6,1,14,Madracis decactis,16,0.608,NA
+20220812,Past-F4,7,7,1,14,Porites astreoides,16,0.59,NA
+20220812,Dlab-F4,8,8,1,14,Diploria labyrinthiformis,16,0.603,NA
+20220812,Mdec-C4,1,1,1,15,Madracis decactis,16,0.601,NA
+20220812,Mcav-B4,2,2,1,15,Montastraea cavernosa,16,0.598,NA
+20220812,Mcav-A4,3,3,1,15,Montastraea cavernosa,16,0.605,NA
+20220812,Past-D4,4,4,1,15,Porites astreoides,16,0.582,NA
+20220812,Dlab-C4,5,5,1,15,Diploria labyrinthiformis,16,0.596,NA
+20220812,Dlab-E4,6,6,1,15,Diploria labyrinthiformis,16,0.59,NA
+20220812,Mdec-F4,7,7,1,15,Madracis decactis,16,0.6,NA
+20220812,Past-B4,8,8,1,15,Porites astreoides,16,0.596,NA
+20220813,Past-F6,1,1,1,16,Porites astreoides,26,0.598,NA
+20220813,Mdec-E6,2,2,1,16,Madracis decactis,26,0.606,NA
+20220813,Mcav-D6,3,3,1,16,Montastraea cavernosa,26,0.605,NA
+20220813,Past-C6,4,4,1,16,Porites astreoides,26,0.579,NA
+20220813,Mdec-B6,5,5,1,16,Madracis decactis,26,0.59,NA
+20220813,Dlab-C6,6,6,1,16,Diploria labyrinthiformis,26,0.591,NA
+20220813,Mcav-C6,7,7,1,16,Montastraea cavernosa,26,0.593,NA
+20220813,Dlab-E6,8,8,1,16,Diploria labyrinthiformis,26,0.586,NA
+20220813,Mcav-B6,1,1,1,17,Montastraea cavernosa,26,0.592,NA
+20220813,Past-D6,2,2,1,17,Porites astreoides,26,0.601,NA
+20220813,BK-7,3,3,1,17,Blank,26,0.606,NA
+20220813,Mdec-F6,4,4,1,17,Madracis decactis,26,0.604,NA
+20220813,Dlab-A6,5,5,1,17,Diploria labyrinthiformis,26,0.593,NA
+20220813,Mdec-C6,6,6,1,17,Madracis decactis,26,0.602,NA
+20220813,Mcav-F6,7,7,1,17,Montastraea cavernosa,26,0.595,NA
+20220813,Past-A6,8,8,1,17,Porites astreoides,26,0.591,NA
+20220813,Mdec-D6,1,1,1,18,Madracis decactis,26,0.603,NA
+20220813,Mcav-E6,2,2,1,18,Montastraea cavernosa,26,0.6,NA
+20220813,Mcav-A6,3,3,1,18,Montastraea cavernosa,26,0.612,NA
+20220813,Dlab-F6,4,4,1,18,Diploria labyrinthiformis,26,0.598,NA
+20220813,Dlab-B6,5,5,1,18,Diploria labyrinthiformis,26,0.596,NA
+20220813,Past-B6,6,6,1,18,Porites astreoides,26,0.595,NA
+20220813,Dlab-D6,7,7,1,18,Diploria labyrinthiformis,26,0.595,NA
+20220813,Past-E6,8,8,1,18,Porites astreoides,26,0.606,NA
+20220815,Mdec-B7,1,1,1,19,Madracis decactis,36,0.597,NA
+20220815,Dlab-B7,2,2,1,19,Diploria labyrinthiformis,36,0.587,NA
+20220815,Past-D7,3,3,1,19,Porites astreoides,36,0.582,NA
+20220815,Mcav-D7,4,4,1,19,Montastraea cavernosa,36,0.588,NA
+20220815,Dlab-A7,5,5,1,19,Diploria labyrinthiformis,36,0.596,NA
+20220815,Mcav-F7,6,6,1,19,Montastraea cavernosa,36,0.59,NA
+20220815,Past-E7,7,7,1,19,Porites astreoides,36,0.594,NA
+20220815,Mdec-F7,8,8,1,19,Madracis decactis,36,0.605,NA
+20220815,Mdec-A7,1,1,1,20,Madracis decactis,36,0.596,NA
+20220815,Mcav-A7,2,2,1,20,Montastraea cavernosa,36,0.593,NA
+20220815,Dlab-E7,3,3,1,20,Diploria labyrinthiformis,36,0.59,NA
+20220815,Dlab-C7,4,4,1,20,Diploria labyrinthiformis,36,0.599,NA
+20220815,Mdec-D7,5,5,1,20,Madracis decactis,36,0.602,NA
+20220815,Past-A7,6,6,1,20,Porites astreoides,36,0.591,NA
+20220815,Mcav-C7,7,7,1,20,Montastraea cavernosa,36,0.592,NA
+20220815,Past-B7,8,8,1,20,Porites astreoides,36,0.587,NA
+20220815,Mdec-C7,1,1,1,21,Madracis decactis,36,0.595,NA
+20220815,Mdec-E7,2,2,1,21,Madracis decactis,36,0.599,NA
+20220815,Dlab-D7,3,3,1,21,Diploria labyrinthiformis,36,0.596,NA
+20220815,Mcav-B7,4,4,1,21,Montastraea cavernosa,36,0.601,NA
+20220815,Past-F7,5,5,1,21,Porites astreoides,36,0.596,NA
+20220815,Past-C7,6,6,1,21,Porites astreoides,36,0.597,NA
+20220815,BK-8,7,7,1,21,Blank,36,0.607,NA
+20220815,Dlab-F7,8,8,1,21,Diploria labyrinthiformis,36,0.588,NA

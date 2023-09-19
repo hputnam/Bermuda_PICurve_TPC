@@ -1,0 +1,20 @@
+Plate 1,,,,,,,,,,,,
+,1,2,3,4,5,6,7,8,9,10,11,12
+A,Dlab-F1,Mdec-A7,Mcav-E3,Mdec-B3,Dlab-F6,Mcav-C4,Mdec-E3,Dlab-B2,Dlab-D7,Mcav-A4,Mcav-F6,Mcav-A7
+B,Mdec-D4,Dlab-F2,Mcav-B7,Dlab-D2,Dlab-A6,Dlab-A7,Mcav-C5,Dlab-D6,Mdec-E7,Mdec-C3,Mcav-D2,Dlab-E4
+C,Mcav-E1,Dlab-C7,Mdec-B1,Dlab-F5,Dlab-D3,Mdec-B5,Mcav-F2,Mdec-C1,Mdec-C2,Mcav-D1,Mdec-C4,Mcav-D4
+D,Dlab-A2,Mcav-E2,Dlab-F3,Dlab-A5,Mcav-E5,Dlab-D4,Mcav-A1,Mcav-F3,Mcav-F4,Dlab-B5,Mcav-D3,Mdec-F3
+E,Mdec-A5,Mdec-D5,Mdec-D6,Mcav-C1,Mdec-B4,Mcav-F1,Mdec-B7,Mdec-E6,Dlab-E1,Mcav-F5,Dlab-B6,Mdec-A1
+F,Mcav-B5,Dlab-C6,Dlab-F4,Mdec-D7,Mdec-E1,Dlab-F7,Dlab-D5,Mcav-C6,Mcav-C7,Mdec-F1,Mdec-F2,Mcav-F7
+G,Dlab-C5,Mcav-B6,Dlab-D1,Mcav-C2,Mcav-E6,Mdec-E2,Mdec-E5,Mcav-A2,Dlab-B4,Mcav-A5,Dlab-E3,Dlab-B7
+H,Dlab-A1,Dlab-A3,Dlab-A4,Mcav-E4,Mcav-C3,Mdec-B6,Dlab-B1,Dlab-B3,Mcav-A3,Dlab-E2,Mcav-A6,Mdec-C6
+,,,,,,,,,,,,
+Plate 2,1,2,3,4,5,6,7,8,9,10,11,12
+A,Mcav-B1,Dlab-E6,Mdec-A4,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY
+B,Mdec-F4,Dlab-C3,Dlab-E7,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY
+C,Mdec-A2,Mcav-B2,Mdec-D3,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY
+D,Mcav-D5,Mdec-F5,Mcav-B4,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY
+E,Dlab-C2,Mdec-D2,Mcav-D7,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY
+F,Mdec-D1,Mcav-D6,Dlab-C4,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY
+G,Dlab-E5,Mdec-A3,Mdec-F7,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY
+H,Mdec-C7,Mdec-F6,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY,EMPTY
